@@ -1,2 +1,2 @@
 # gen_ai
-lab
+Generative lab manual
